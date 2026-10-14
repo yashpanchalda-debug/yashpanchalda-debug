@@ -4,19 +4,20 @@
 
 ### Data Analyst | BI Analyst | Marketing Analyst
 
-*Transforming operational, sales, and customer data into dashboards, KPI reports, and insights that drive business decisions*
+*Columbus, OH*
 
-📍 Columbus, OH &nbsp;|&nbsp; 📧 [yashpanchalda@gmail.com](mailto:yashpanchalda@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/yashpanchalda)
+[![Email](https://img.shields.io/badge/Email-yashpanchalda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashpanchalda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpanchalda)
 
 </div>
 
 ---
 
-## 👤 About Me
+## 👋 About Me
 
-Results-driven Data Analyst with **7+ years of experience** transforming operational, sales, and customer data into dashboards, KPI reports, and insights that support business decisions. Proficient in SQL, Python, R, Power BI, Tableau, and Excel, with hands-on experience in data validation, reconciliation, ETL support, reporting automation, and forecasting.
+Results-driven Data Analyst with **7+ years of experience** transforming operational, sales, and customer data into dashboards, KPI reports, and insights that support business decisions. I'm proficient in SQL, Python, R, Power BI, Tableau, and Excel, with hands-on experience in data validation, reconciliation, ETL support, reporting automation, and forecasting.
 
-Experienced in **marketing analytics**, including campaign performance, social media, web analytics, and customer behavior analysis. Skilled in stakeholder communication and cross-functional collaboration — translating business requirements into accurate, decision-ready reporting for both technical and non-technical audiences.
+I bring a strong background in **marketing analytics** — including campaign performance, social media, web analytics, and customer behavior analysis — and I'm skilled at translating complex business requirements into accurate, decision-ready reporting for both technical and non-technical audiences. Whether it's building an executive dashboard or digging into multi-source datasets to surface anomalies, I focus on delivering analysis that actually moves the needle.
 
 ---
 
@@ -24,59 +25,63 @@ Experienced in **marketing analytics**, including campaign performance, social m
 
 **BI & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel%20Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Languages & Query**
+**Languages & Querying**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Databases & Cloud**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 
-**Analytics Capabilities**
+**Analytics & Marketing**
 
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-blueviolet?style=for-the-badge)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-5C3EE8?style=for-the-badge)
-![Forecasting](https://img.shields.io/badge/Forecasting-0078D4?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL%20Support-FF6F00?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6DB33F?style=for-the-badge)
-![Campaign Analysis](https://img.shields.io/badge/Campaign%20Analysis-E91E63?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-**Tools & Workflow**
+**Tools & Project Management**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Smartsheet](https://img.shields.io/badge/Smartsheet-00A1E0?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-29ABE2?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-FF5722?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Smartsheet](https://img.shields.io/badge/Smartsheet-00A1E0?style=flat-square&logo=smartsheet&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-6DB33F?style=flat-square&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logoColor=white)
 
 ---
 
 ## 💻 Terminal Stats
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│              yash@data-analyst ~ % profile --stats      │
-├─────────────────────────────────────────────────────────┤
-│  Experience .............. 7+ Years                     │
-│  Core Focus .............. Data & BI Analytics          │
-│  Reporting Automation .... 30–40% manual effort saved   │
-│  Query Skills ............ Joins, CTEs, Subqueries,     │
-│                            Aggregations, Optimization   │
-│  Domains ................. Operations, Sales,           │
-│                            Marketing, Academic          │
-│  Collaboration ........... Cross-functional, Agile      │
-│  Communication ........... Technical & Non-Technical    │
-│  Status .................. Open to Opportunities ✅     │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  > whoami                                                   │
+│  Yash Panchal — Data Analyst | BI Analyst | Marketing Analyst│
+│                                                             │
+│  > years_of_experience                                      │
+│  7+ years                                                   │
+│                                                             │
+│  > core_skills                                              │
+│  SQL · Python · R · Power BI · Tableau · Excel             │
+│                                                             │
+│  > specializations                                          │
+│  Dashboard Development · KPI Reporting · Forecasting        │
+│  ETL Support · Marketing Analytics · Data Storytelling      │
+│                                                             │
+│  > reporting_automation_impact                              │
+│  Reduced manual effort by an estimated 30–40%              │
+│  (Mphasis, Data Analyst role)                               │
+│                                                             │
+│  > location                                                 │
+│  Columbus, OH                                               │
+│                                                             │
+│  > status                                                   │
+│  Open to new opportunities ✓                                │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -85,64 +90,70 @@ Experienced in **marketing analytics**, including campaign performance, social m
 
 **M.S., Computer Science**
 *Data Science and Artificial Intelligence Concentrations*
-University of the Potomac &nbsp;|&nbsp; 2024 – 2026
+University of the Potomac · 2024 – 2026
 
 ---
 
 ## 🏆 Achievements
 
-| Award | Period | Organization |
-|---|---|---|
-| 🥇 Employee of the Year | 2018 | AskSunday |
-| 🥈 Employee of the Quarter | Q1 2017 | AskSunday |
-| ⭐ Employee of the Month | January 2017 | AskSunday |
-| ⭐ Employee of the Month | May 2017 | AskSunday |
-| ⭐ Employee of the Month | May 2018 | AskSunday |
-| ⭐ Employee of the Month | November 2018 | AskSunday |
+- 🥇 **Employee of the Year** — AskSunday, 2018
+- 🏅 **Employee of the Quarter (Q1 2017)** — AskSunday
+- ⭐ **Employee of the Month** — January 2017, May 2017, May 2018, November 2018 · AskSunday
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔍 [HR Employee Attrition Analysis](https://github.com/yashpanchalda/hr-employee-attrition-analysis)
-> SQL and Python analysis of IBM HR employee attrition data to uncover key drivers of turnover, with visualizations and an Excel summary report.
+> **Python · SQL · Excel**
 
-`Python` `SQL` `Excel` `EDA` `HR Analytics`
+SQL and Python analysis of IBM HR employee attrition data to uncover key drivers of turnover, with visualizations and an Excel summary report.
 
 ---
 
 ### 📈 [Sales Forecasting with Excel & Python](https://github.com/yashpanchalda/sales-forecasting-with-excel-python)
-> A beginner-to-intermediate sales forecasting project that builds a linear regression model in both Excel and Python, then visualizes and compares the results.
+> **Excel · Python**
 
-`Python` `Excel` `Linear Regression` `Forecasting` `Data Visualization`
+A beginner-to-intermediate sales forecasting project that builds a linear regression model in both Excel and Python, then visualizes and compares the results.
 
 ---
 
 ### 🎬 [Movie Ratings Exploratory Analysis](https://github.com/yashpanchalda/movie-ratings-exploratory-analysis)
-> Exploratory data analysis of movie ratings using Pandas and Matplotlib, with visualizations across genre, year, and rating distributions.
+> **Python · Pandas · Matplotlib**
 
-`Python` `Pandas` `Matplotlib` `EDA` `Data Visualization`
+Exploratory data analysis of movie ratings using Pandas and Matplotlib, with visualizations across genre, year, and rating distributions.
 
 ---
 
 ### 🦠 [COVID-19 Data Cleaning & Insights](https://github.com/yashpanchalda/covid-19-data-cleaning-insights)
-> A Python/Pandas pipeline that cleans a messy COVID-19 dataset, computes key trend metrics, and visualizes the results with a written summary of findings.
+> **Python · Pandas**
 
-`Python` `Pandas` `Data Cleaning` `Data Quality` `Trend Analysis`
+A Python/Pandas pipeline that cleans a messy COVID-19 dataset, computes key trend metrics, and visualizes the results with a written summary of findings.
 
 ---
 
 ### 🛒 [Retail Sales SQL Analysis](https://github.com/yashpanchalda/retail-sales-sql-analysis)
-> A collection of 15+ SQL queries of increasing complexity analyzing retail sales data, demonstrating joins, aggregations, window functions, and CTEs.
+> **SQL**
 
-`SQL` `Joins` `CTEs` `Window Functions` `Aggregations`
+A collection of 15+ SQL queries of increasing complexity analyzing retail sales data, demonstrating joins, aggregations, window functions, and CTEs.
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-yashpanchalda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpanchalda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpanchalda)
+
+*📍 Columbus, OH*
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to Data Analyst, BI Analyst, and Marketing Analyst opportunities — let's connect!*
-
-📧 [yashpanchalda@gmail.com](mailto:yashpanchalda@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/yashpanchalda) &nbsp;|&nbsp; 📍 Columbus, OH
+*"Turning data into decisions — one dashboard at a time."*
 
 </div>
